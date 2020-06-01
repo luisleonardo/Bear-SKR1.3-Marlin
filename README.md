@@ -29,7 +29,7 @@ The printer was built from scratch with the same or better parts than Original P
 ### Hotend
  * [E3D V6 all-metal hotend](https://e3d-online.com/v6-all-metal-hotend)
  * [Hotend Fan - Sunon KDE2404PFV2-11AB 24V 40x40x10](https://amzn.to/2TN1ZKI)
- * [Nozzle Fan - Sunon EF50152B1-1C01C-A99 24V 5015](https://aliexpress.com/item/4000889664167.html)
+ * [Nozzle Fan - Sunon EF50152B1-1C01C-A99 24V 5015](http://s.click.aliexpress.com/e/_d7mjigR)
 
 ### Detailed BOM
 * Soon...
