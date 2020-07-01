@@ -32,7 +32,7 @@ The printer was built from scratch with the same or better parts than Original P
  * [Nozzle Fan - Sunon EF50152B1-1C01C-A99 24V 5015](http://s.click.aliexpress.com/e/_d7mjigR)
 
 ### Detailed BOM
-* Soon...
+* [Available here](https://github.com/luisleonardo/PrusaBear-BOM/blob/master/README.md)
 
 ### Wiring Guide
 * Soon...
